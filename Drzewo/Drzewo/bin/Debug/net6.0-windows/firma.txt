@@ -1,0 +1,8 @@
+Firma brak
+Zarząd brak
+Prezes Zarząd
+Rada Zarząd
+Produkcja Firma
+Sprzedaż Firma
+Maszyny Produkcja
+Elektronika Produkcja
